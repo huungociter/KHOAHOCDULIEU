@@ -1,0 +1,2 @@
+**********HƯỚNG DẪN CHẠY FILE NOTEBOOK***********
+Kernel -> Restart & Run All
